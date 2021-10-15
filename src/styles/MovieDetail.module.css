@@ -1,0 +1,29 @@
+.card {
+    background-image: linear-gradient(to bottom right, #1B0B33, rgba(255,0,0,0));
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+    margin: 10px;
+    width: 300px;
+}
+
+.cardHeader h1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+    padding: 12px;
+}
+
+.cardHeader p {
+    color: #ff5047 !important;
+    padding: 0px 12px;
+}
+
+.cardFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}

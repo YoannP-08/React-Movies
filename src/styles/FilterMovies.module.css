@@ -1,0 +1,17 @@
+.categoryFilter {
+    border: 2px solid #1b0b33;
+    border-radius: 18px;
+    margin: 12px;
+    padding: 8px;
+    width: 200px;
+    position: relative;
+}
+
+.categoryFilter:focus{
+    outline: none;
+}
+
+.categoryFilter option {
+    font-size: 1000px;
+}
+

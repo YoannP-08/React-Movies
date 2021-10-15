@@ -1,0 +1,14 @@
+.delButton {
+    background-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    color: #ff5047!important;
+    margin: 4px;
+    padding: 4px 8px;
+}
+
+.delButton:hover {
+    background-color: #ff5047;
+    border: 2px solid #ff5047;
+    color: #fff!important;
+}

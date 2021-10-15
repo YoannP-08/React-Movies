@@ -1,0 +1,43 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    list-style: none;
+    padding-top: 20px;
+}
+
+.navigation {
+    background-color: #ff5047;
+    border: 2px solid #ff5047;
+    border-radius: 8px;
+    color: #fff!important;
+    margin: 4px;
+    padding: 4px;
+}
+
+.navigation:hover {
+    background-color: #fff;
+    color: #ff5047!important;
+}
+
+.pageItem {
+    padding: 10px;
+}
+
+.pageLink {
+    color: #FF5047;
+    cursor: pointer;
+}
+
+.pageLink:hover{
+    color: #1B0B33;
+}
+
+
+.moviesPerPage {
+    border: 1px solid #1b0b33;
+    border-radius: 18px;
+    margin: 4px;
+    padding: 4px;
+    width: auto;
+}

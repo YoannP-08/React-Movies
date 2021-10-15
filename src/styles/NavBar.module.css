@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.navbar {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #1B0B33;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.navbar h1 {
+color: #ff5047;
+}
+
